@@ -1,0 +1,1 @@
+cmd /k cd /d D:\iapppay_work\×Ô¶¯»¯²âÊÔ\PayTest\pyAutoRun
